@@ -22,10 +22,10 @@ Explore fundamental statistics terminology, how to calculate descriptive statist
 
 | Topic | About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides/)| Overview of EDA and `pandas`, including the notebooks below |
-| [02 Distributions](./02-distributions) | A guided walkthrough of summarizing and visualizing distributions |
+| [Full Lesson Deck](https://github.com/ga-curriculum/eda-exploring-and-joining-data-with-pandas/blob/main/01-slides/EDA-Exploring-and-Joining-Data-with-pandas.pdf){:target="_blank"}| Overview of EDA and `pandas`, including the notebooks below |
+| [02 Distributions](https://github.com/ga-curriculum/eda-exploring-and-joining-data-with-pandas/tree/main/02-distributions){:target="_blank"} | A guided walkthrough of summarizing and visualizing distributions |
 | [03 Descriptive statistics and data joins in `pandas`](./03-descriptive-statistics-data-joins-in-pandas) | A guided walkthrough of calculating descriptive statistics with `pandas`, summarising data using `groupby` and joining data |
-| [04 Exercise - descriptive statistics with `pandas`](./04-exercise-descriptive-statistics-in-pandas) | A descriptive statistics exercise using `pandas` |
+| [04 Exercise - descriptive statistics with `pandas`](https://github.com/ga-curriculum/eda-exploring-and-joining-data-with-pandas/tree/main/04-exercise-descriptive-statistics-in-pandas){:target="_blank"} | A descriptive statistics exercise using `pandas` |
 
 
 ## Prerequisites
